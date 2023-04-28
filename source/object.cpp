@@ -150,7 +150,7 @@ void Draw() {
 		SetFontSize(100);
 		DrawFormatString(100,200,GetColor(255,255,255),"‚ ‚È‚½‚Ì•‰‚¯");
 		SetFontSize(16);
-		printfDx("www");
+		//printfDx("www");
 	}
 }
 void Delete() {
